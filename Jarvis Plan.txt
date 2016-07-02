@@ -1,0 +1,23 @@
+
+Speech- All Speech features
+Backend- Connects everything + Checks for program updates + GUI
+Online_Database- Updates if connected; Resource for Online_Jarvis
+
+
+Speech:
+-Key Words
+-Commands to Run
+
+Backend:
+-GUI
+--Runs features
+-Download from Database
+--Updates Program
+
+Online_Database:
+-Stores Speech Classes/Commands Online
+
+Classes:
+
+Pseudo-Main file- Launch application --> Updates Program + Runs the RMF
+Real_Main_File- Full GUI for Jarvis + Runs Features + Accesses Database
