@@ -39,6 +39,14 @@ Not Started :
 		Set a reminder
 		Read out reminders...
 
+In Progress :
+		Turn Computer Off - Day
+		
+Completed : 
+		...
+		
+		
 		Feel free to add any ideas you get to this project guys!!!!!
+		
 
 }
